@@ -765,6 +765,14 @@ main {
   margin-bottom: 7px;
 }
 
+.timeline-ol-list {
+  font-size: var(--fs-6);
+  margin-left: 15px;
+  color: var(--light-gray);
+  font-weight: var(--fw-300);
+  line-height: 1.6;
+}
+
 .timeline-list span {
   color: var(--vegas-gold);
   font-weight: var(--fw-400);
@@ -798,7 +806,7 @@ main {
   font-weight: var(--fw-300);
   line-height: 1.6;
 }
-
+  
 
 /**
  * skills 
